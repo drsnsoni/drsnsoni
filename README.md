@@ -12,6 +12,7 @@
 - ⚡ I have a strong passion for **Web Development** and **Building Scalable Applications**.
 - 👨‍💻 Currently working with **Laravel**, **Django**, **Vue.js**, and **Python** to create dynamic web applications.
 - 🖥️ I’m always looking to enhance my skills and learn new technologies to deliver high-quality solutions.
+- 🎵 I enjoy listening to music and playing the keyboard, which helps me unwind and stay creative.
 - 📚 In my free time, I enjoy reading about **software architecture**, **AI**, and **tech trends**.
 
 ---
