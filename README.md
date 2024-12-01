@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Developer+and+Penetration+Tester;Passionate+about+Tech+and+Security;Always+learning+new+skills!&font=Fira%20Code&center=true&width=550&height=50&color=00FFFF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Developer+and+Penetration+Tester;Passionate+about+Tech+and+Security;Always+learning+new+skills!&font=Fira%20Code&center=true&width=460&height=50&color=00FFFF&vCenter=true&size=22">
   </a>
 </p>
 
