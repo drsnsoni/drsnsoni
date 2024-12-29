@@ -1,4 +1,4 @@
-# Hi there, I'm Darshan Soni
+# About Me - Darshan Soni  
 <img align="right" alt="GIF" height="160px" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/mha-serious-izuku-midoriya-gif-desktop-wallpaper-preview.gif" />
 
 <p align="left">
@@ -7,14 +7,11 @@
   </a>
 </p>
 
-
-## 💫 About Me
+## About Me
 - ⚡ I have a strong passion for **Web Development** and **Building Scalable Applications**.
 - 👨‍💻 Currently working with **Laravel**, **Django**, **Vue.js**, and **Python** to create dynamic web applications.
-- 🖥️ I’m always looking to enhance my skills and learn new technologies to deliver high-quality solutions.
-- 🎵 I enjoy listening to music and playing the keyboard, which helps me unwind and stay creative.
-- 📚 In my free time, I enjoy reading about **software architecture**, **AI**, and **tech trends**.
+- 🖥️ I am dedicated to continuously enhancing my skills and staying updated with emerging technologies in order to deliver high-quality solutions.
+- 🎵 In my spare time, I enjoy listening to music and playing the keyboard, activities that help me stay focused and creative.
+- 📚 I enjoy reading about **software architecture**, **AI**, and **tech trends**, which enables me to stay informed on the latest advancements in the tech industry.
 
 ---
-</p>
-
