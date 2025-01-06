@@ -1,6 +1,4 @@
 # Hi, I'm Darshan Soni  
-
-## About Me
 - ⚡ Hi, I’m passionate about **Web Development** and creating **Scalable Applications**.
 - 👨‍💻 Currently, I’m working with **Laravel**, **Django**, **Vue.js**, and **Python** to develop dynamic, high-performing web applications.
 - 🖥️ I'm always looking to expand my knowledge and enhance my skills to deliver top-notch solutions.
