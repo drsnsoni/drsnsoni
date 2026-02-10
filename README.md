@@ -33,7 +33,7 @@ $developer = [
 
 ## 🔥 Currently
 
-🌱 Exploring **Laravel 11** & **Serverless Architecture**  
+🌱 Exploring **Laravel 12** & **Serverless Architecture**  
 🎯 Building a SaaS project management tool  
 🤝 Open to collaborate on Laravel packages  
 📚 Sharing knowledge through technical blogs
