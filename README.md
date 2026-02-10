@@ -50,6 +50,6 @@ $developer = [
 
 **💡 "First, solve the problem. Then, write the code."**
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=drsnsoni&color=blueviolet&style=flat-square)
 
 </div>
