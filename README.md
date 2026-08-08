@@ -1,85 +1,30 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Darshan+%F0%9F%91%8B;Backend+dev+who+loves+clean+code;Music+%F0%9F%8E%A7+%7C+Piano+%F0%9F%8E%B9+%7C+Games+%F0%9F%8E%AE;Always+Evolving." alt="Typing SVG" />
+</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=900&color=FF2D20&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Darshan+Soni+%F0%9F%91%8B;Laravel+Developer+%7C+SaaS+Builder;Turning+coffee+into+scalable+web+apps+%E2%98%95" alt="Animated introduction" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/drsnsoni"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/iamdrnsoni"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://iamdrsnsoni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=drsnsoni&style=flat-square&color=FF2D20&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+### 😄 A little about me
+
+I'm a backend dev who spends most of my time writing a mix of code and love ❤️ — building clean, secure **REST APIs** with Laravel & Django, and lately tinkering with the **Laravel AI SDK** 🤖. When I step away from the keyboard, you'll usually find me lost in **music** 🎧, jamming a little on the **piano** 🎹, or sneaking in a **game** 🎮 or two. Always learning, always **Evolving.**
 
 ---
 
-## `> whoami`
+### 🛠️ Things I build with
 
-```php
-final class DarshanSoni
-{
-    public array $languages = ['PHP', 'JavaScript', 'SQL'];
-    public string $framework = 'Laravel';
-    public string $building = 'A SaaS project-management platform';
-    public string $learning = 'Microservices & event-driven architecture';
-    public string $debugger = 'dd()';
-}
-```
-
-I build thoughtful, scalable web products with Laravel. I care about clean architecture, practical developer experience, and code that future-me can understand without regret.
-
-## What I’m focused on
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌱 Learning</h3>
-      Laravel 12, serverless patterns, and event-driven systems.
-    </td>
-    <td width="50%">
-      <h3>🚀 Building</h3>
-      A SaaS platform that makes project work feel less chaotic.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤝 Collaborating</h3>
-      Open-source Laravel packages and useful developer tools.
-    </td>
-    <td width="50%">
-      <h3>✍️ Sharing</h3>
-      Technical notes and lessons from building in public.
-    </td>
-  </tr>
-</table>
-
-## Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,tailwind,docker,git&perline=8" alt="PHP, Laravel, JavaScript, Vue, MySQL, Tailwind CSS, Docker, Git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
 
-## GitHub signals
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drsnsoni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&rank_icon=github" alt="Darshan's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=drsnsoni&hide_border=true&background=0D1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="Darshan's contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drsnsoni&bg_color=0D1117&color=C9D1D9&line=FF2D20&point=FFFFFF&area=true&hide_border=true" alt="Darshan's contribution graph" />
-</div>
-
-## Contribution trail
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/drsnsoni/drsnsoni/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Darshan's contribution graph" />
-</div>
-
 ---
 
-<div align="center">
-  <i>“First, solve the problem. Then, write the code.”</i>
-  <br /><br />
-  <b>Let’s build something useful.</b>
-</div>
+### 📊 My GitHub in numbers
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drsnsoni&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drsnsoni&theme=react&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="top langs" />
+</p>
