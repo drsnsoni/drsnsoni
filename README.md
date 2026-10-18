@@ -23,14 +23,6 @@ I recently led the migration of a legacy system to **Laravel 12** and then **Lar
 
 ## Technical Skills
 
-| Area | Technologies |
-|---|---|
-| **Backend** | PHP, Laravel, Eloquent ORM, REST APIs, Laravel Horizon, Livewire |
-| **Frontend** | Vue.js, JavaScript, TypeScript, Blade, Tailwind CSS |
-| **Database** | MySQL |
-| **Other** | Python, Django |
-| **Tools** | Git, GitHub, Composer, Postman, Linux, Pest |
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="Technology stack" />
 </p>
