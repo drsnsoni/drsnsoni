@@ -19,8 +19,8 @@ Most recently, I led the migration of a legacy system to **Laravel 12** and subs
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="PHP, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Tailwind CSS, Python, Django, Git, Linux" />
 </p>
 
-## GitHub Activity
+## Most Used Languages
 
 <p align="left">
-  <img src="https://ghchart.rshah.org/drsnsoni" alt="Darshan Soni's GitHub contribution graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css,scss,html&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true" alt="Most used languages on GitHub" />
 </p>
