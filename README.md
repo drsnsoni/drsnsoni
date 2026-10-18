@@ -18,3 +18,9 @@ Most recently, I led the migration of a legacy system to **Laravel 12** and subs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="PHP, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Tailwind CSS, Python, Django, Git, Linux" />
 </p>
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/drsnsoni" alt="Darshan Soni's GitHub contribution graph" width="100%" />
+</p>
