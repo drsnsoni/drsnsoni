@@ -1,7 +1,5 @@
 # Darshan Soni
 
-**Laravel Developer**
-
 ---
 
 ## About
