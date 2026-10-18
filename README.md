@@ -21,6 +21,8 @@ Most recently, I led the migration of a legacy system to **Laravel 12** and subs
 
 ## Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css,scss,html&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true" alt="Most used languages on GitHub" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css,scss,html&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=github_dark&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css,scss,html&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=default&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css,scss,html&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=default&bg_color=ffffff" alt="Most used languages on GitHub" />
+</picture>
