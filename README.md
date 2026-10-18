@@ -1,46 +1,70 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Darshan+%F0%9F%91%8B;Backend+dev+who+loves+clean+code;Music+%F0%9F%8E%A7+%7C+Piano+%F0%9F%8E%B9+%7C+Games+%F0%9F%8E%AE;Always+Evolving." alt="Typing SVG" />
-</h1>
+# Darshan Soni
 
-<p align="center">
-  <b>Laravel Developer @ Treesha Infotech</b> · Ahmedabad, India · ~3 years building production web apps
+**Laravel Developer** · Ahmedabad, India
+
+[Portfolio](https://drsnsoni.github.io) · [LinkedIn](https://linkedin.com/in/drsnsoni) · [Email](mailto:er.darshansoni@hotmail.com)
+
+---
+
+## About
+
+I am a Laravel Developer at **Treesha Infotech** with close to three years of experience designing, building, and maintaining production web applications. My work centres on backend engineering: RESTful API design, asynchronous processing with queues and background jobs, and database performance.
+
+I recently led the migration of a legacy system to **Laravel 12** and then **Laravel 13**, moving it to an API-first architecture. I care about clean architecture, maintainable code, and sound engineering practices, and I am currently exploring AI integration with the Laravel AI SDK.
+
+I am open to opportunities in **backend and full-stack development**, on-site in Ahmedabad or remote.
+
+---
+
+## Core Expertise
+
+- **API Development:** Design, implementation, and optimization of RESTful APIs for web and mobile clients
+- **Asynchronous Processing:** Queues, background jobs, and Laravel Horizon
+- **Framework Upgrades:** Legacy-system migration to current Laravel releases
+- **Database Performance:** Query optimization, Eloquent relationships, and eager loading
+- **Automation:** Custom Artisan commands for business workflows
+- **Frontend Integration:** Reusable Vue.js components integrated with Laravel backends
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Backend** | PHP, Laravel, Eloquent ORM, REST APIs, Laravel Horizon, Livewire |
+| **Frontend** | Vue.js, JavaScript, TypeScript, Blade, Tailwind CSS |
+| **Database** | MySQL |
+| **Other** | Python, Django |
+| **Tools** | Git, GitHub, Composer, Postman, Linux, Pest |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="Technology stack" />
 </p>
 
 ---
 
-### 😄 A little about me
+## Selected Projects
 
-I'm a backend dev who spends most of my time writing a mix of code and love ❤️ — building clean, secure **REST APIs** with Laravel & Django, and lately tinkering with the **Laravel AI SDK** 🤖. When I step away from the keyboard, you'll usually find me lost in **music** 🎧, jamming a little on the **piano** 🎹, or sneaking in a **game** 🎮 or two. Always learning, always **Evolving.**
-
-- ⬆️ Recently led a legacy system's migration to **Laravel 12 → 13** with an API-first architecture
-- ⚙️ Day to day: REST APIs, queues & background jobs, Artisan automation, Vue.js frontends
-- 💼 **Open to Laravel / Backend / Full-Stack roles**, on-site in Ahmedabad or remote
-
----
-
-### 🛠️ Things I build with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,python,django,tailwind,git,github,linux&theme=dark" alt="tech stack" />
-</p>
-
----
-
-### 📌 Featured projects
-
-| Project | What it is | Stack |
+| Project | Description | Technologies |
 |---|---|---|
-| 🔐 [my-vault](https://github.com/drsnsoni/my-vault) | End-to-end encrypted password manager with offline sync | TypeScript, PWA, Supabase, AES-256-GCM |
-| 🖼️ [Selfpixra](https://github.com/drsnsoni/Selfpixra) | Photo gallery with albums, categories, search and per-user access policies | Laravel 12, Blade, Tailwind |
-| 🦀 [terminal-claude-mascot-windows](https://github.com/drsnsoni/terminal-claude-mascot-windows) | Animated mascot for the Claude Code CLI: statusline + click-through overlay | Python, Windows API |
+| [**my-vault**](https://github.com/drsnsoni/my-vault) | End-to-end encrypted password manager with cross-device offline sync. Keys are derived on the device with PBKDF2-SHA256, and data is encrypted with AES-256-GCM before it leaves the device. | TypeScript, PWA, Supabase |
+| [**Selfpixra**](https://github.com/drsnsoni/Selfpixra) | Photo management application with categories, albums, multi-image upload, search, and policy-based per-user authorization. | Laravel 12, Blade, Tailwind CSS, Pest |
+
+Professional work, including a multi-gate visitor management system, an internal employee management platform, and a Laravel 12 → 13 API migration, is described on my [portfolio](https://drsnsoni.github.io).
 
 ---
 
-### 📫 Let's connect
+## Education
 
-<p align="center">
-  <a href="https://drsnsoni.github.io">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/drsnsoni">💼 LinkedIn</a> ·
-  <a href="mailto:er.darshansoni@hotmail.com">✉️ er.darshansoni@hotmail.com</a> ·
-  <a href="https://x.com/iamdrnsoni">𝕏 @iamdrnsoni</a>
-</p>
+**Bachelor of Engineering, Information Technology**
+Gandhinagar Institute of Technology (GTU), 2019 – 2023
+
+---
+
+## Contact
+
+I welcome conversations about backend and full-stack roles, freelance work, and collaboration.
+
+- **Email:** [er.darshansoni@hotmail.com](mailto:er.darshansoni@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/drsnsoni](https://linkedin.com/in/drsnsoni)
+- **Portfolio:** [drsnsoni.github.io](https://drsnsoni.github.io)
