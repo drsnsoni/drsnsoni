@@ -1,28 +1,20 @@
 # Darshan Soni
 
----
+I am a backend-focused Laravel developer with nearly three years of experience building and maintaining production web applications. My work centres on RESTful API design, asynchronous processing, and database performance.
 
-## About
-
-I am a Laravel Developer with close to three years of experience designing, building, and maintaining production web applications. My work centres on backend engineering: RESTful API design, asynchronous processing with queues and background jobs, and database performance.
-
-I recently led the migration of a legacy system to **Laravel 12** and then **Laravel 13**, moving it to an API-first architecture. I care about clean architecture, maintainable code, and sound engineering practices, and I am currently exploring AI integration with the Laravel AI SDK.
-
----
+Most recently, I led the migration of a legacy system to **Laravel 12** and subsequently **Laravel 13**, restructuring it around an API-first architecture. I value clean, maintainable code and am currently exploring AI integration with the Laravel AI SDK.
 
 ## Core Expertise
 
-- **API Development:** Design, implementation, and optimization of RESTful APIs for web and mobile clients
+- **API Development:** Designing and optimizing RESTful APIs for web and mobile clients
 - **Asynchronous Processing:** Queues, background jobs, and Laravel Horizon
-- **Framework Upgrades:** Legacy-system migration to current Laravel releases
+- **Framework Upgrades:** Migrating legacy systems to current Laravel releases
 - **Database Performance:** Query optimization, Eloquent relationships, and eager loading
 - **Automation:** Custom Artisan commands for business workflows
-- **Frontend Integration:** Reusable Vue.js components integrated with Laravel backends
+- **Frontend Integration:** Reusable Vue.js components backed by Laravel APIs
 
----
-
-## Technical Skills
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="PHP, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Tailwind CSS, Python, Django, Git, Linux" />
 </p>
