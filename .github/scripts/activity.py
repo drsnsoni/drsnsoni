@@ -42,9 +42,9 @@ THEMES = {
     "dark": {"line": "#3fb950", "fill": "#2ea043", "text": "#8b949e"},
 }
 
-W, H = 440, 350
-CX, CY = 240, 172
-REACH = {"left": 115, "right": 115, "up": 110, "down": 110}
+W, H = 380, 262
+CX, CY = 195, 128
+REACH = {"left": 95, "right": 95, "up": 80, "down": 80}
 
 
 def percentages(counts):
@@ -58,9 +58,9 @@ def label(text_lines, x, y, anchor, color):
     out = []
     for i, line in enumerate(text_lines):
         out.append(
-            f'<text x="{x}" y="{y + i * 18}" text-anchor="{anchor}" fill="{color}" '
+            f'<text x="{x}" y="{y + i * 20}" text-anchor="{anchor}" fill="{color}" '
             f'font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" '
-            f'font-size="14">{line}</text>'
+            f'font-size="17">{line}</text>'
         )
     return "".join(out)
 
@@ -99,13 +99,13 @@ def render(counts, theme):
 
     # Labels
     up = lines_for("Code review", p["reviews"])
-    svg.append(label(up, CX, CY - REACH["up"] - 12 - 18 * (len(up) - 1), "middle", c["text"]))
+    svg.append(label(up, CX, CY - REACH["up"] - 12 - 20 * (len(up) - 1), "middle", c["text"]))
     down = lines_for("Pull requests", p["prs"])
     svg.append(label(down, CX, CY + REACH["down"] + 24, "middle", c["text"]))
     left = lines_for("Commits", p["commits"])
-    svg.append(label(left, CX - REACH["left"] - 30, CY - 9 * (len(left) - 1) + 5, "middle", c["text"]))
+    svg.append(label(left, CX - REACH["left"] - 40, CY - 10 * (len(left) - 1) + 6, "middle", c["text"]))
     right = lines_for("Issues", p["issues"])
-    svg.append(label(right, CX + REACH["right"] + 12, CY - 9 * (len(right) - 1) + 5, "start", c["text"]))
+    svg.append(label(right, CX + REACH["right"] + 12, CY - 10 * (len(right) - 1) + 6, "start", c["text"]))
 
     svg.append("</svg>")
     return "".join(svg)
