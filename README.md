@@ -34,12 +34,3 @@ I recently led the migration of a legacy system to **Laravel 12** and then **Lar
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="Technology stack" />
 </p>
-
----
-
-## Selected Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [**my-vault**](https://github.com/drsnsoni/my-vault) | End-to-end encrypted password manager with cross-device offline sync. Keys are derived on the device with PBKDF2-SHA256, and data is encrypted with AES-256-GCM before it leaves the device. | TypeScript, PWA, Supabase |
-| [**Selfpixra**](https://github.com/drsnsoni/Selfpixra) | Photo management application with categories, albums, multi-image upload, search, and policy-based per-user authorization. | Laravel 12, Blade, Tailwind CSS, Pest |
