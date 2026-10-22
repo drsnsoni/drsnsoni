@@ -1,30 +1,19 @@
-# Darshan Soni
+<h1 align="center">Darshan Soni</h1>
 
-I am a backend-focused Laravel developer with nearly three years of experience building and maintaining production web applications. My work centres on RESTful API design, asynchronous processing, and database performance.
+<p align="center">Backend Laravel Developer · APIs · Queues · Performance</p>
 
-Most recently, I led the migration of a legacy system to **Laravel 12** and subsequently **Laravel 13**, restructuring it around an API-first architecture. I value clean, maintainable code and am currently exploring AI integration with the Laravel AI SDK.
+## About
 
-## Core Expertise
+I'm fascinated by the invisible side of software: the API that responds instantly, the queue that absorbs the chaos, the query that scales without complaint.
 
-- **API Development:** Designing and optimizing RESTful APIs for web and mobile clients
-- **Asynchronous Processing:** Queues, background jobs, and Laravel Horizon
-- **Framework Upgrades:** Migrating legacy systems to current Laravel releases
-- **Database Performance:** Query optimization, Eloquent relationships, and eager loading
-- **Automation:** Custom Artisan commands for business workflows
-- **Frontend Integration:** Reusable Vue.js components backed by Laravel APIs
+I love turning tangled systems into clean, predictable ones, and I'm now curious about how AI can fit naturally into the Laravel apps we build every day.
 
-## Tech Stack
+## Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,python,django,git,linux" alt="PHP, Laravel, Vue.js, JavaScript, TypeScript, MySQL, Tailwind CSS, Python, Django, Git, Linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,mysql,git" alt="PHP, Laravel, Vue.js, MySQL, Git" />
 </p>
 
-## GitHub Overview
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css%2Cscss%2Chtml&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=github_dark&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css%2Cscss%2Chtml&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=default&bg_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css%2Cscss%2Chtml&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true&theme=default&bg_color=ffffff" height="200" alt="Most used languages on GitHub" />
-  </picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnsoni&layout=compact&hide=css%2Cscss%2Chtml&exclude_repo=terminal-claude-mascot-windows&langs_count=5&hide_border=true" height="160" alt="Top languages" />
 </p>
